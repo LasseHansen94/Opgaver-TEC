@@ -1,0 +1,11 @@
+C:\Users\Tec\Desktop\C# Opgaver\Objekt Orinteret\Git\08-12\08-12\bin\Debug\netcoreapp2.0\08-12.deps.json
+C:\Users\Tec\Desktop\C# Opgaver\Objekt Orinteret\Git\08-12\08-12\bin\Debug\netcoreapp2.0\08-12.runtimeconfig.json
+C:\Users\Tec\Desktop\C# Opgaver\Objekt Orinteret\Git\08-12\08-12\bin\Debug\netcoreapp2.0\08-12.runtimeconfig.dev.json
+C:\Users\Tec\Desktop\C# Opgaver\Objekt Orinteret\Git\08-12\08-12\bin\Debug\netcoreapp2.0\08-12.dll
+C:\Users\Tec\Desktop\C# Opgaver\Objekt Orinteret\Git\08-12\08-12\bin\Debug\netcoreapp2.0\08-12.pdb
+C:\Users\Tec\Desktop\C# Opgaver\Objekt Orinteret\Git\08-12\08-12\obj\Debug\netcoreapp2.0\08-12.csprojResolveAssemblyReference.cache
+C:\Users\Tec\Desktop\C# Opgaver\Objekt Orinteret\Git\08-12\08-12\obj\Debug\netcoreapp2.0\08-12.csproj.CoreCompileInputs.cache
+C:\Users\Tec\Desktop\C# Opgaver\Objekt Orinteret\Git\08-12\08-12\obj\Debug\netcoreapp2.0\08-12.AssemblyInfoInputs.cache
+C:\Users\Tec\Desktop\C# Opgaver\Objekt Orinteret\Git\08-12\08-12\obj\Debug\netcoreapp2.0\08-12.AssemblyInfo.cs
+C:\Users\Tec\Desktop\C# Opgaver\Objekt Orinteret\Git\08-12\08-12\obj\Debug\netcoreapp2.0\08-12.dll
+C:\Users\Tec\Desktop\C# Opgaver\Objekt Orinteret\Git\08-12\08-12\obj\Debug\netcoreapp2.0\08-12.pdb

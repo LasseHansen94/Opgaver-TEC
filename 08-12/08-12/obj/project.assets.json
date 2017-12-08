@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tec\\Desktop\\C# Opgaver\\Objekt Orinteret\\08-12\\08-12\\08-12.csproj",
+      "projectUniqueName": "C:\\Users\\Tec\\Desktop\\C# Opgaver\\Objekt Orinteret\\Git\\08-12\\08-12\\08-12.csproj",
       "projectName": "08-12",
-      "projectPath": "C:\\Users\\Tec\\Desktop\\C# Opgaver\\Objekt Orinteret\\08-12\\08-12\\08-12.csproj",
+      "projectPath": "C:\\Users\\Tec\\Desktop\\C# Opgaver\\Objekt Orinteret\\Git\\08-12\\08-12\\08-12.csproj",
       "packagesPath": "C:\\Users\\Tec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tec\\Desktop\\C# Opgaver\\Objekt Orinteret\\08-12\\08-12\\obj\\",
+      "outputPath": "C:\\Users\\Tec\\Desktop\\C# Opgaver\\Objekt Orinteret\\Git\\08-12\\08-12\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
