@@ -1,0 +1,11 @@
+C:\Users\Tec\Desktop\C# Opgaver\Objekt Orinteret\Git\Diverse Opgaver 31++\Diverse Opgaver 31++\obj\Debug\netcoreapp2.0\Diverse Opgaver 31++.csprojResolveAssemblyReference.cache
+C:\Users\Tec\Desktop\C# Opgaver\Objekt Orinteret\Git\Diverse Opgaver 31++\Diverse Opgaver 31++\obj\Debug\netcoreapp2.0\Diverse Opgaver 31++.csproj.CoreCompileInputs.cache
+C:\Users\Tec\Desktop\C# Opgaver\Objekt Orinteret\Git\Diverse Opgaver 31++\Diverse Opgaver 31++\obj\Debug\netcoreapp2.0\Diverse Opgaver 31++.AssemblyInfoInputs.cache
+C:\Users\Tec\Desktop\C# Opgaver\Objekt Orinteret\Git\Diverse Opgaver 31++\Diverse Opgaver 31++\obj\Debug\netcoreapp2.0\Diverse Opgaver 31++.AssemblyInfo.cs
+C:\Users\Tec\Desktop\C# Opgaver\Objekt Orinteret\Git\Diverse Opgaver 31++\Diverse Opgaver 31++\bin\Debug\netcoreapp2.0\Diverse Opgaver 31++.deps.json
+C:\Users\Tec\Desktop\C# Opgaver\Objekt Orinteret\Git\Diverse Opgaver 31++\Diverse Opgaver 31++\bin\Debug\netcoreapp2.0\Diverse Opgaver 31++.runtimeconfig.json
+C:\Users\Tec\Desktop\C# Opgaver\Objekt Orinteret\Git\Diverse Opgaver 31++\Diverse Opgaver 31++\bin\Debug\netcoreapp2.0\Diverse Opgaver 31++.runtimeconfig.dev.json
+C:\Users\Tec\Desktop\C# Opgaver\Objekt Orinteret\Git\Diverse Opgaver 31++\Diverse Opgaver 31++\bin\Debug\netcoreapp2.0\Diverse Opgaver 31++.dll
+C:\Users\Tec\Desktop\C# Opgaver\Objekt Orinteret\Git\Diverse Opgaver 31++\Diverse Opgaver 31++\bin\Debug\netcoreapp2.0\Diverse Opgaver 31++.pdb
+C:\Users\Tec\Desktop\C# Opgaver\Objekt Orinteret\Git\Diverse Opgaver 31++\Diverse Opgaver 31++\obj\Debug\netcoreapp2.0\Diverse Opgaver 31++.dll
+C:\Users\Tec\Desktop\C# Opgaver\Objekt Orinteret\Git\Diverse Opgaver 31++\Diverse Opgaver 31++\obj\Debug\netcoreapp2.0\Diverse Opgaver 31++.pdb

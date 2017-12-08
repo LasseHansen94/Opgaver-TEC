@@ -40,7 +40,7 @@ namespace _08_12
         }
     }
 
-    class User {
+    class User : Product {
 
         // Fields - De kan tildeles forskellige Encapsulations (Public, protected, private og default)
         public int alder;
@@ -73,6 +73,7 @@ namespace _08_12
     }
 
     internal class Product{
+        // Properties
         public string Navn {get; set; }
         public string Description{get; set;}
         public double Weight{get;set;}
