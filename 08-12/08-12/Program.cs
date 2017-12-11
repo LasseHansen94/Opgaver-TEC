@@ -49,6 +49,10 @@ namespace _08_12
         string navn; // Default - Samme som private i C#
 
         // Properties
+        public int _alder {
+            get{return alder;}
+            set{alder = value;}
+        }       
 
         // Methods
         public void A() {
